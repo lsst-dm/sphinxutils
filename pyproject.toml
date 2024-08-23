@@ -23,7 +23,7 @@ dependencies = [
 dynamic = ["version"]
 
 [project.urls]
-"Homepage" = "https://github.com/lsst/sphinxutils"
+"Homepage" = "https://github.com/lsst-dm/sphinxutils"
 
 [project.optional-dependencies]
 dev = [
