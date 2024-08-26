@@ -28,6 +28,7 @@ dynamic = ["version"]
 [project.optional-dependencies]
 # Development dependencies
 dev = [
+    "beautifulsoup4",
     "coverage[toml]",
     "lsst-versions",
     "mypy",
